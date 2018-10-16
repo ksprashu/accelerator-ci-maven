@@ -130,7 +130,7 @@ the following command to find out the IP address:
 docker-machine ip default
 ```
 
-Fire up a browser and hit `http://<your-docker-ip>:9001` to access Jenkins UI.
+Fire up a browser and hit `http://<your-docker-ip>:8080` to access Jenkins UI.
 
 Please note that Jenkins will start all jobs upon start as it is configured to
 trigger each job every minute [why not git web
